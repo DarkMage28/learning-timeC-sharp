@@ -1,0 +1,15 @@
+D:\VS projects\firstproject\firstproject\bin\Release\net6.0\firstproject.exe
+D:\VS projects\firstproject\firstproject\bin\Release\net6.0\firstproject.deps.json
+D:\VS projects\firstproject\firstproject\bin\Release\net6.0\firstproject.runtimeconfig.json
+D:\VS projects\firstproject\firstproject\bin\Release\net6.0\firstproject.dll
+D:\VS projects\firstproject\firstproject\bin\Release\net6.0\firstproject.pdb
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.csproj.AssemblyReference.cache
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.AssemblyInfoInputs.cache
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.AssemblyInfo.cs
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.csproj.CoreCompileInputs.cache
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.dll
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\refint\firstproject.dll
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.pdb
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\firstproject.genruntimeconfig.cache
+D:\VS projects\firstproject\firstproject\obj\Release\net6.0\ref\firstproject.dll
