@@ -19,12 +19,19 @@ namespace firstproject
             // me.paw();
             // me.multiplier();
             // me.separation();
-            while (true)
+           // while (true)
             {
-            me.calculator();
-            } 
+           // me.calculator();
+            }
 
             //me.playfor();
+            //me.massive();
+            //me.massive2();          
+            // Console.WriteLine(me.summ2("5", "20"));
+            //me.info();
+            //me.back2();
+            //me.structures();
+            me.uravnenie();
         }
     }
 }
